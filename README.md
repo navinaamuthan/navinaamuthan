@@ -5,7 +5,7 @@ Aspiring to pursue a research career in the intersectionality of Transactional A
 You can also find me writing out my exuberant mind out on [Medium](navinagamuthan.medium.com) and reading a lot, find my bookish journey on [Goodreads](https://www.goodreads.com/review/list/125625226-navina-g?ref=nav_mybooks). 
 
 ---
-Catch up with me on:
+And yeah, find me on:
 
 [Twitter](https://twitter.com/navzzie)
 
