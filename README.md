@@ -7,7 +7,7 @@ Currently focusing on learning to analyse patterns and insights for implementing
 
 Three Years down the lane, I want to be able to look back at myself as having contributed heavily to a Technology that is practically helping make people's lives easier. Fingers-crossed, I'm gonna do it 💡 
 
-You can also find me writing out my creative mind out on [Medium](navinagamuthan.medium.com) and reading a lot, find my bookish journey on [Goodreads](https://www.goodreads.com/review/list/125625226-navina-g?ref=nav_mybooks). 
+You can also find me writing out on [Medium](navinagamuthan.medium.com) and reading, find my bookish journey on [Goodreads](https://www.goodreads.com/review/list/125625226-navina-g?ref=nav_mybooks). 
 
 ---
 And yeah, catch me up on:
