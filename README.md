@@ -1,6 +1,6 @@
 Hey there!👋 Thanks for visiting my profile!
 
-I'm Navina Amuthan, an Undergraduate student in Information Science and Engineering.
+I'm Navina Amuthan, an Associate Implementation Engineer in the Planning Suite of E2Open with an undergraduate Degree in Information Science and Engineering.
 I love to work with numbers, curate insights, curious to create stuffs for the web and do all-things-tech💻. 
 
 Currently focusing on learning to analyse patterns and insights for implementing data-driven decisions through Advanced ML and Deep Learning.  
@@ -12,9 +12,9 @@ You can also find me writing out on [Medium](navinagamuthan.medium.com) and read
 ---
 And yeah, catch me up on:
 
-[Twitter](https://twitter.com/navzzie)
-
 [LinkedIn](https://www.linkedin.com/in/navinagamuthan/) 
+
+[Twitter](https://twitter.com/navzzie)
  
 [LeetCode Profile](https://leetcode.com/navina_ga/)
 
