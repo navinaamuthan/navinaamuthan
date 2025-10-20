@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m an **Associate Implementation Engineer** at **E2Open** in the **Planning Suite**. I hold an undergraduate degree in **Information Science and Engineering** and have a strong passion for working with data, web technologies, and exploring innovative tech solutions. 
+I'm currently purusing my Masters in Computer Science - Intelligent Systems from Trinity College Dublin. Previously, I was working as an **Associate Implementation Engineer** at **E2Open** in the **Planning Suite**. I hold an undergraduate degree in **Information Science and Engineering** and have a strong passion for working with data, web technologies and exploring innovative tech solutions. 
 
 Currently, my focus is on learning **Advanced Machine Learning** and **Deep Learning** to implement data-driven decision-making. I love to explore new technologies and build impactful solutions. 💻
 
