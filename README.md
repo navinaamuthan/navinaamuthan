@@ -6,6 +6,7 @@ I'm currently purusing my Masters in Computer Science - Intelligent Systems from
 
 Currently, my focus is on learning **Advanced Machine Learning** and **Deep Learning** to implement data-driven decision-making. I love to explore new technologies and build impactful solutions. 💻
 
+
 You can also find me writing on **[Medium](https://medium.com)** and tracking my reading adventures on **[Goodreads](https://goodreads.com)**.
 
 ---
