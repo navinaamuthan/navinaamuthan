@@ -16,11 +16,10 @@ I build AI systems, ship products to real users, and think hard about whether th
 
 Currently finishing my **MSc in Computer Science — Intelligent Systems** at **Trinity College Dublin** (Distinction), with a dissertation on **AI Ethics and Corporate Responsible AI Governance**. Previously at **E2open** as an Associate Implementation Engineer, delivering enterprise SaaS implementations for Fortune 500 clients across 120+ countries.
 
-I sit at the intersection of AI engineering, product delivery, and responsible AI — comfortable writing Python and SQL, building agentic systems, and advising on EU AI Act compliance in the same week.
+I sit at the intersection of AI engineering, product delivery, and responsible AI. I'm comfortable writing Python and SQL, building agentic systems, and advising on EU AI Act compliance in the same week.
 
 - Based in **Dublin, Ireland**
-- Available **immediately**
-- No visa sponsorship required
+
 
 ---
 
