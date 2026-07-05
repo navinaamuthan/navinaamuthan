@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navinagamuthan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/navinaamuthan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:navinagamuthan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=safari&logoColor=white)](https://navinaamuthan.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=safari&logoColor=white)](https://navinaamuthan.vercel.app)
 
 
 ---
